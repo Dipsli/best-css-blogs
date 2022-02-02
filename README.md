@@ -2,7 +2,7 @@
 Whether you're a beginner or an expert, you'll find a blog that's right for you in the list below. Maybe it will even encourage you to start a blog on CSS.
 CSS is a nightmare for some, and a joy for others. It's all about personal interests. If you're in the tech world, you need CSS somehow.
 
-1) [blog.timonwa.com](https://blog.timonwa.com/)
+1) [blog.timonwa.com](https://blog.timonwa.com/ target="_blank")
 Timonwa is a tech writer especially interested in front-end and UX. She's passionate about elegant design and she believes it shines through in the writing she creates. 
 
 2) [markodenic.com/blog](url)
