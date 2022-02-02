@@ -1,7 +1,5 @@
-# best-css-blogs
+# h2 +30 CSS Blogs You Should Visit Occasionally
 Whether you're a beginner or an expert, you'll find a blog that's right for you in the list below. Maybe it will even encourage you to start a blog on CSS.
-
-+30 CSS Blogs You Should Visit Occasionally
 CSS is a nightmare for some, and a joy for others. It's all about personal interests. If you're in the tech world, you need CSS somehow.
 
 Whether you're a beginner or an expert, you'll find a blog that's right for you in the list below. Maybe it will even encourage you to start a blog on CSS.
